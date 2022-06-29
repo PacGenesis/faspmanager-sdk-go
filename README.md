@@ -20,7 +20,7 @@ Aspera demo server.
    the GOPATH environment variable to point to this directory.
    
 2. Clone faspmanager-sdk-go into subdirectory
-   src/github.com/Aspera/faspmanager-sdk-go within the Go workspace
+   src/github.com/pacgenesis/faspmanager-sdk-go within the Go workspace
    directory. Required Aspera ascp binaries and configuration files for macosx
    and linux 64 bit platforms are included.
 

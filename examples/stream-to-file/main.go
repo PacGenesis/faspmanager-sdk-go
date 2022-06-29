@@ -3,8 +3,8 @@ package main
 import (
 	"io"
 
-	"github.com/Aspera/faspmanager-sdk-go/examples"
-	"github.com/Aspera/faspmanager-sdk-go/faspmanager"
+	"github.com/pacgenesis/faspmanager-sdk-go/examples"
+	"github.com/pacgenesis/faspmanager-sdk-go/faspmanager"
 )
 
 var BYTES_TO_WRITE = 128 * 1024 * 3

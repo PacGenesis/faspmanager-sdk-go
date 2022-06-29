@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/Aspera/faspmanager-sdk-go/faspmanager"
+	"github.com/pacgenesis/faspmanager-sdk-go/faspmanager"
 )
 
 type TransferListener struct{}

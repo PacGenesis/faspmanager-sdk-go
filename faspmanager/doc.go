@@ -6,7 +6,7 @@
 //
 //        package main
 //
-//        import "github.com/Aspera/faspmanager-sdk-go/faspmanager"
+//        import "github.com/pacgenesis/faspmanager-sdk-go/faspmanager"
 //
 //        func main() {
 //                manager, _ := faspmanager.New()

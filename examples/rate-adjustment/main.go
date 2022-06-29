@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Aspera/faspmanager-sdk-go/examples"
-	"github.com/Aspera/faspmanager-sdk-go/faspmanager"
+	"github.com/pacgenesis/faspmanager-sdk-go/examples"
+	"github.com/pacgenesis/faspmanager-sdk-go/faspmanager"
 )
 
 func main() {
