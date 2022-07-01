@@ -1,3 +1,5 @@
+package main
+
 module github.compacgenesis/faspmanager-sdk-go/faspmanager
 
 go 1.18
